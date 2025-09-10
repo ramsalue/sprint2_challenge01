@@ -1,6 +1,6 @@
 # TensorFlow is much easier to install using Anaconda, especially
 # on Windows or when using a GPU. Please see the installation
-# instructions in INSTALL.md
+# instructions in INSTALL.md EDICION SPRINT2_CHALLENGE01
 
 ##### Core scientific packages
 jupyter==1.0.0
